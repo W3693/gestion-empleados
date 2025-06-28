@@ -40,8 +40,8 @@ Este proyecto es una API RESTful construida con **Node.js**, **Express** y **Mon
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/backend-api.git
-cd backend-api
+git clone https://github.com/W3693/gestion-empleados.git
+cd gestion-empleados
 ```
 
 2. Instala dependencias:
@@ -64,9 +64,9 @@ JWT_SECRET=secreto123
 node index.js
 ```
 
-## 📁 La carpeta /data 
+## 📁 La carpeta /data 👤
 
-contiene archivos en formato .json que simulan el contenido de las colecciones empleados y usuarios. Estos archivos permiten poblar la base de datos de forma rápida, facilitando el desarrollo y la realización de pruebas locales.
+Contiene archivos en formato .json que simulan el contenido de las colecciones empleados y usuarios. Estos archivos permiten poblar la base de datos de forma rápida, facilitando el desarrollo y la realización de pruebas locales.
 
 ---
 
